@@ -1,8 +1,7 @@
-### Hello! 
-
+### Hello! 🧑🏽‍💻
 Welcome to my GitHub profile. Here you'll find most of my creations and other things I might want to share with you.
 
-For my YouTube channel make sure to click [HERE](https://developerwow64.github.io)
+For my YouTube channel make sure to click [Here](https://www.youtube.com/channel/UCMLvI_HBgar65sV-a5JQDpg)
 
 <!--
 **DeveloperWOW64/DeveloperWOW64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
