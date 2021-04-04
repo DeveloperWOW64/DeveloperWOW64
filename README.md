@@ -1,8 +1,7 @@
-### Hello! 🧑🏽‍💻
-Welcome to my GitHub profile. Here you'll find most of my creations and other things I might want to share with you.
-I am a new developer, who is well, new. (Oh, god) I like to code Python, C# and Swift. I am currently developing a project called [StoryGame](https://github.com/DeveloperWOW64/Storygame), but I'm also working on many more!. (Most) Of my repositories are free to collaborate, just submit a pull-request, and I'll see if I want to add it. To reach me, you can! Just click [here](mailto:devwow64@gmail.com).
+### Hello! 👨‍💻
+My name is Jupiter, and welcome to my GitHub profile. Here you'll find most of my creations and other things I might want to share with you.
 
-For my YouTube channel make sure to click [Here](https://www.youtube.com/channel/UCMLvI_HBgar65sV-a5JQDpg)
+I am developer, and I like to code Python, C# and Swift. I am currently developing a project called [PowerEnvironment](https://github.com/DuoTechX/environment), but I'm also working on many more!. (Most) Of my repositories are free to collaborate, just submit a pull-request, *(or however GitHub works these days...)* and I'll see if I want to add it. To reach me, just click [here](mailto:devwow64@gmail.com).
 
 <!--
 **DeveloperWOW64/DeveloperWOW64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
