@@ -1,7 +1,12 @@
-### Hello! 👨‍💻
-My name is Jupiter, and welcome to my GitHub profile. Here you'll find most of my creations and other things I might want to share with you.
+### Hello! Pleased to meet you! 👨‍💻
 
-I am developer, and I like to code Python, C# and Swift. The editors I currently work with are Microsoft Visual Studio and Apple Xcode. I am currently working on a project called [Reform](https://github.com/DeveloperWOW64/Reform). (Most) Of my repositories are free to collaborate, just submit a pull-request, *(or however GitHub works these days...)* and I'll see if I want to add it. To reach me, just click [here](mailto:devwow64@gmail.com).
+I'm a UWP developer from the UK.
+- 🔭 I’m currently working on a project called [Desktop Management](https://github.com/DeveloperWOW64/deskmgr/)
+- 🌱 I'm still learning uwp and computer development, so if I get something wrong, please tell me!
+- 👯 Check out a cool project called [Files](https://github.com/files-community/). It's a file-explorer app that looks really nice and has some fantastic features!
+- 💬 Have a question about a project or something else? Feel free to submit an issue, chat in a discusion, or if you want to be more discrete, send me an [email!](mailto:devwow64@gmail.com)
+- 😄 Pronouns: he/him
+
 ![DeveloperWOW64's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloperWOW64&show_icons=true&include_all_commits=true&count_private=true)
 
 <!--
